@@ -1,1 +1,1 @@
-# rhel_ai_1.2
+# rhel-ai-1.2
